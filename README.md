@@ -87,12 +87,3 @@ Feel free to open issues or submit pull requests to improve the app!
 
 Created by Varnika Khokhar  
 [GitHub Profile](https://github.com/varnika3105)
-
-
-
----
-
-## Contact
-
-Created by Varnika Khokhar  
-[GitHub Profile](https://github.com/varnika3105)
