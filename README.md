@@ -65,9 +65,9 @@ Then open the URL shown in your browser (usually http://localhost:8501).
 
 ## Screenshots
 
-*Add screenshots here by uploading images to a `screenshots` folder and linking like this:*
-
-![App Screenshot](screenshots/screenshot1.png)
+![App in light mode](Screenshot/Screenshot1.jpg)
+![App in dark mode](Screenshot/Screenshot2.jpg)
+![App generates a melancholy poem for a waterfall image](Screenshot/Screenshot3.jpg)
 
 ---
 
