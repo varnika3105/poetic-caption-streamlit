@@ -101,7 +101,7 @@ with col1:
 with col2:
     if uploaded_image and generate:
         image = Image.open(uploaded_image).convert("RGB")
-        st.image(image, caption="Uploaded Image", use_column_width=True)
+        st.image(image, caption="Uploaded Image", use_container_width=True)
 
         with st.spinner("Generating poetic caption..."):
             device = "cuda" if torch.cuda.is_available() else "cpu"
