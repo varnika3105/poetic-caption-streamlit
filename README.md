@@ -5,6 +5,17 @@ Upload a photo, select a poetic style, and get a beautiful descriptive caption a
 
 ---
 
+## Try the Live App! 🚀
+
+Experience the **Poetic Caption Generator** in action by clicking the button below:
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://poetic-caption-app-g5amjmc42uy54dphetvryw.streamlit.app/#poetic-caption)
+
+Or open directly:  
+https://poetic-caption-app-g5amjmc42uy54dphetvryw.streamlit.app/#poetic-caption
+
+---
+
 ## Features
 
 - Image captioning using [BLIP](https://huggingface.co/Salesforce/blip-image-captioning-base)
